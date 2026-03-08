@@ -22,6 +22,9 @@ I like building things that are useful in real workflows: developer tools, brows
 - [web_agent](https://github.com/cuongducle/web_agent)  
   Playground for testing web agents with Chrome DevTools Protocol, FastAPI, and Next.js.
 
+- [community-demand-prospecting-skill](https://github.com/cuongducle/community-demand-prospecting-skill)  
+  Reusable skill for repo-to-product marketing research, positioning, and community demand prospecting.
+
 ## Working Style
 
 - Prefer simple systems that are easy to run and extend
