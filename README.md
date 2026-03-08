@@ -1,6 +1,6 @@
 # Cuong Le
 
-Software engineer focused on practical products, backend systems, AI tooling, and automation.
+Software engineer at Vin Smart Future focused on practical products, backend systems, AI tooling, and automation.
 
 I like building things that are useful in real workflows: developer tools, browser automation experiments, API services, and small apps that solve annoying problems.
 
@@ -21,15 +21,6 @@ I like building things that are useful in real workflows: developer tools, brows
 
 - [web_agent](https://github.com/cuongducle/web_agent)  
   Playground for testing web agents with Chrome DevTools Protocol, FastAPI, and Next.js.
-
-- [fastapi_base](https://github.com/cuongducle/fastapi_base)  
-  FastAPI starter repository for structured backend services and API-first projects.
-
-- [extractive-summary](https://github.com/cuongducle/extractive-summary)  
-  Vietnamese extractive summarization experiments using TF-IDF, Word2Vec, Doc2Vec, and clustering.
-
-- [Selenium_FB_Crawler](https://github.com/cuongducle/Selenium_FB_Crawler)  
-  Selenium-based crawler for collecting Facebook group posts in large-volume scraping workflows.
 
 ## Working Style
 
