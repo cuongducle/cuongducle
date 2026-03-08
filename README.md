@@ -28,8 +28,8 @@ I like building things that are useful in real workflows: developer tools, brows
 - [extractive-summary](https://github.com/cuongducle/extractive-summary)  
   Vietnamese extractive summarization experiments using TF-IDF, Word2Vec, Doc2Vec, and clustering.
 
-- [my_portfolio](https://github.com/cuongducle/my_portfolio)  
-  Personal website built with Next.js and Tailwind CSS.
+- [Selenium_FB_Crawler](https://github.com/cuongducle/Selenium_FB_Crawler)  
+  Selenium-based crawler for collecting Facebook group posts in large-volume scraping workflows.
 
 ## Working Style
 
